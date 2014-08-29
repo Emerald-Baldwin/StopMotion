@@ -1,0 +1,9 @@
+package com.compilecompeterepeat.stopmotion;
+
+import android.support.v4.app.Fragment;
+
+public class CameraActivity extends SingleFragmentActivity {
+	protected Fragment createFragment() {
+		return (Fragment) new CameraPreview();
+	}
+}

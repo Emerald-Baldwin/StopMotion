@@ -1,0 +1,4 @@
+INDEX VERSION 1.126+C:\Users\Emerald\Documents\MyApps\.metadata\.plugins\org.eclipse.jdt.core
+1948116680.index
+1081882332.index
+2146239170.index

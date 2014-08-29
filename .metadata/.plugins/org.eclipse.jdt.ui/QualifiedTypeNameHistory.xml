@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="android.hardware.Camera.Parameters"/>
+<fullyQualifiedTypeName name="android.view.SurfaceHolder"/>
+<fullyQualifiedTypeName name="android.hardware.Camera"/>
+<fullyQualifiedTypeName name="android.content.Context"/>
+<fullyQualifiedTypeName name="java.io.IOException"/>
+<fullyQualifiedTypeName name="android.util.Log"/>
+<fullyQualifiedTypeName name="android.view.SurfaceView"/>
+<fullyQualifiedTypeName name="android.widget.FrameLayout"/>
+<fullyQualifiedTypeName name="android.app.Fragment"/>
+<fullyQualifiedTypeName name="android.view.View"/>
+<fullyQualifiedTypeName name="android.view.LayoutInflater"/>
+<fullyQualifiedTypeName name="android.view.ViewGroup"/>
+<fullyQualifiedTypeName name="android.os.Bundle"/>
+<fullyQualifiedTypeName name="com.compilecompeterepeat.stopmotion.R.layout"/>
+<fullyQualifiedTypeName name="com.compilecompeterepeat.stopmotion.R.id"/>
+<fullyQualifiedTypeName name="android.widget.Button"/>
+</qualifiedTypeNameHistroy>
